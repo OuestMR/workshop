@@ -9,15 +9,10 @@ Il fait suite au 7ème congrès de la SFRMBM qui s'est tenu du 24 au 26 mars 202
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="[URL_de_votre_image](https://https://github.com/OuestMR/workshop/edit/master/photo workshop SFRBM/SFRMBM-logo-X.jpg)" alt="Description" width="200"/></td>
+    <td><img src="[https://https://github.com/OuestMR/workshop/edit/master/photo workshop SFRBM/SFRMBM-logo-X.jpg)]" alt="SFRMBM-logo-X" width="200"/></td>
     <td>Venez découvrir le site de la Société Française de Résonance Magnétique en Biologie et Médecine (SFRMBM) <a href="[https://sfrmbm.fr/]">ici</a></td>
   </tr>
 </table>
-
-
-|   |   |
-| ![SFRMBM-logo-X](https://https://github.com/OuestMR/workshop/edit/master/photo workshop SFRBM/SFRMBM-logo-X.jpg) | Venez découvrir le site de la Société Française de Résonance Magnétique en Biologie et Médecine (SFRMBM) [ici](https://sfrmbm.fr/) |
-
 
 Ce workshop multidisciplinaire a pour objectif de regrouper les jeunes chercheurs (doctorants, post-doctorants, ingénieurs) des domaines de la physique, de la chimie, de la biologie, de l'informatique, ainsi que les médecins cliniciens autour du domaine des technologies pour la santé.
 

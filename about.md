@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Workshop
+title: 1er Workshop de la SFRMBM
 permalink: /about/
 ---
 

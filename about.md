@@ -7,6 +7,14 @@ permalink: /about/
 Le premier workshop de la Société Française de Résonance Magnétique en Biologie et Médecine (SFRMBM) se tiendra le jeudi 19 novembre 2026 au Centre de conférence INRIA à Rennes.
 Il fait suite au 7ème congrès de la SFRMBM qui s'est tenu du 24 au 26 mars 2025 à Saint-Malo.
 
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="[URL_de_votre_image](https://https://github.com/OuestMR/workshop/edit/master/photo workshop SFRBM/SFRMBM-logo-X.jpg)" alt="Description" width="200"/></td>
+    <td>Venez découvrir le site de la Société Française de Résonance Magnétique en Biologie et Médecine (SFRMBM) <a href="[https://sfrmbm.fr/]">ici</a></td>
+  </tr>
+</table>
+
+
 |   |   |
 | ![SFRMBM-logo-X](https://https://github.com/OuestMR/workshop/edit/master/photo workshop SFRBM/SFRMBM-logo-X.jpg) | Venez découvrir le site de la Société Française de Résonance Magnétique en Biologie et Médecine (SFRMBM) [ici](https://sfrmbm.fr/) |
 

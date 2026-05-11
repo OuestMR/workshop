@@ -8,13 +8,13 @@ permalink: /organizers/
 
 <div style="display:flex; gap:20px;">
 
-  <img src="/assets/img/2026-01_Photo_CaroleLabo.jpg" 
+  <img src="/assets/img/CaroleBrunaud.jpg" 
     width="200"
     height="200"
     style="border-radius:50%; object-fit:cover;">
   <p><em>BRUNAUD Carole</em></p>
   
-  <img src="/assets/img/.jpg"     
+  <img src="/assets/img/GraciaKhoury.jpg"     
     width="200"
     height="200"
     style="border-radius:50%; object-fit:cover;">

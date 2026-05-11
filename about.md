@@ -9,7 +9,7 @@ Il fait suite au 7ème congrès de la SFRMBM qui s'est tenu du 24 au 26 mars 202
 
 <table border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td><img src="assets/img/SFRMBM-logo-X.jpg" alt="SFRMBM-logo-X" width="200"/></td>
+    <td><img src="/assets/img/SFRMBM-logo-X.jpg" alt="SFRMBM-logo-X" width="200"/></td>
     <td>Venez découvrir le site de la Société Française de Résonance Magnétique en Biologie et Médecine (SFRMBM) ici<a href="https://sfrmbm.fr/"></a>
     </td>
   </tr>

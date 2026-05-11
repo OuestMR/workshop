@@ -9,5 +9,5 @@ Welcome to the official website for **Workshop Title**.
 
 *   **Dates:** TBD
 *   **Location:** INRIA Rennes conference center
-*.  **Abstract deadline:** TBD
+*  **Abstract deadline:** TBD
 *   **Registration:** [Register Here](/registration)

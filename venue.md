@@ -10,7 +10,7 @@ permalink: /venue/
       Le workshop OuestMR 2026 aura lieu au Centre de conférence de l'INRIA à Rennes (35, Bretagne), au sein de l'Université de Rennes.
     </td>
     <td style="border: none; width: 34%; padding: 8px; vertical-align: top;">
-      <img src="URL_DE_VOTRE_IMAGE" alt="Description de l'image" style="max-width: 100%; height: auto; display: block;">
+      <img src="/assets/img/Photo-INRIA.png" alt="Centre de conférence de l'INRIA" style="max-width: 100%; height: auto; display: block;">
     </td>
   </tr>
 </table>

@@ -17,14 +17,20 @@ permalink: /venue/
 
 **Comment venir au Centre Inria de l'Université de Rennes ?**
 
-🚗 *en voiture :*
+🚗 *en voiture :*  
 Adresse à renseigner sur votre système de navigation :
 Campus de Beaulieu, 263 Avenue Général Leclerc, 35042 Rennes
 
-✈️ *depuis l’aéroport Rennes Saint-Jacques :*
-      - via les transports en commun : 
-            Prendre la ligne de bus C6 direction « Cesson-Sévigné Rigourdière ». 
-            Descendre à l'arrêt «Tournebride ».
+✈️ *depuis l’aéroport Rennes Saint-Jacques :*  
+<p style="text-align: right; margin-right: 30px;">
+  - via les transports en commun : 
+</p>
+<p style="text-align: right; margin-right: 50px;">
+  Prendre la ligne de bus C6 direction « Cesson-Sévigné Rigourdière ».   
+  Descendre à l'arrêt «Tournebride ». 
+</p>
+                                    
+            
       - via un taxi
 
 🚄 *en train :*

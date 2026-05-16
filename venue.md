@@ -18,34 +18,27 @@ permalink: /venue/
 **Comment venir au Centre Inria de l'Université de Rennes ?**
 
 🚗 *en voiture :*  
-Adresse à renseigner sur votre système de navigation :
-Campus de Beaulieu, 263 Avenue Général Leclerc, 35042 Rennes
+Adresse à renseigner sur votre système de navigation :  
+Campus de Beaulieu, 263 Avenue Général Leclerc, 35042 Rennes    
 
 ✈️ *depuis l’aéroport Rennes Saint-Jacques :*  
-<p style="text-align: right; margin-right: 30px;">
-  - via les transports en commun : 
-</p>
-<p style="text-align: right; margin-right: 50px;">
-  Prendre la ligne de bus C6 direction « Cesson-Sévigné Rigourdière ».   
-  Descendre à l'arrêt «Tournebride ». 
-</p>
-                                    
-            
-      - via un taxi
+- via les transports en commun :&nbsp;&nbsp;   
+Prendre la ligne de bus C6 direction « Cesson-Sévigné Rigourdière ».&nbsp;&nbsp;&nbsp;&nbsp;  
+Descendre à l'arrêt «Tournebride ».&nbsp;&nbsp;&nbsp;&nbsp;  
+- via un taxi&nbsp;&nbsp;
 
-🚄 *en train :*
-      - via les transports en commun :
-            Accès direct depuis la gare via la ligne B du métro en direction Cesson-Via Silva
-            Descendre à l'arrêt « Beaulieu Université » puis marcher environ 13mn vers le campus Sud
-            ou
-            Prendre le Métro a à la station Gares (Rennes) en direction de J.F. Kennedy (Rennes)
-            et descendre à la station « République »
-            A la station République, prendre la ligne C4 en direction de ZA Saint-Sulpice ou la ligne C6               vers Cesson Sévigné/Chantepie et descendre à l’arrêt « Tournebride »
-      - via un taxi
+🚄 *en train :*  
+- via les transports en commun :&nbsp;&nbsp;  
+Accès direct depuis la gare via la ligne B du métro en direction Cesson-Via Silva&nbsp;&nbsp;&nbsp;&nbsp;  
+Descendre à l'arrêt « Beaulieu Université » puis marcher environ 13mn vers le campus Sud&nbsp;&nbsp;&nbsp;&nbsp;  
+ou&nbsp;&nbsp;&nbsp;&nbsp;  
+Prendre le Métro a à la station Gares (Rennes) en direction de J.F. Kennedy (Rennes) et descendre à la station « République »&nbsp;&nbsp;&nbsp;&nbsp;  
+A la station République, prendre la ligne C4 en direction de ZA Saint-Sulpice ou la ligne C6 vers Cesson Sévigné/Chantepie et descendre à l’arrêt « Tournebride »&nbsp;&nbsp;&nbsp;&nbsp;  
+- via un taxi&nbsp;&nbsp;  
 
-🚌 *en transport en commun :*
-Arrêt « Tournebride » desservi par les lignes de bus C4, C6, 40 et 41ex
-Arrêt « Beaulieu Université » desservi par la ligne de métro B, puis 13mins de marche direction campus Sud
+🚌 *en transport en commun :*  
+Arrêt « Tournebride » desservi par les lignes de bus C4, C6, 40 et 41ex  
+Arrêt « Beaulieu Université » desservi par la ligne de métro B, puis 13mins de marche direction campus Sud  
 --> possibilité de valider son titre de transport à la montée des bus avec la carte bancaire.
 
 
